@@ -47,6 +47,7 @@
 'PortadownExtension_02_02_2012_DSM.tif -9999.0         12367.000000    47424.000000   ']
 
 
+
 # set no data to -9999
 [
 'Tandragee_15_03_2010_DTM.tif   -99.0           14.896500       72.344719', 
@@ -186,3 +187,376 @@ okay = [
 'Raholp_DTM.tif                 -9999.0         25.762735       79.266479', 
 'Camowen_16_06_2014_DSM.tif     -9999.0         72.537933       123.733971'
 ]
+
+Post processing:
+Processed: Blackwater_16_06_2014_DTM.tif
+Processed: Londonderry_30_04_2009_DTM.tif
+Processed: Dunmull_DTM.tif
+Processed: Keady_02_02_2012_DSM.tif
+Processed: Raholp_DSM.tif
+Processed: Crossmurrin_DTM.tif
+Processed: Glynn_DTM.tif
+Processed: East Belfast_29_05_2013_DTM.tif
+Processed: Ballygowan_15_03_2010_DTM.tif
+Processed: Killyleagh__15_03_2010_DTM.tif
+Processed: Dohertys_Tower_DTM.tif
+Processed: Cornashee_DSM.tif
+Processed: Sion Mills_02_02_2012_DTM.tif
+Processed: Omagh_23_05_2004_DSM.tif
+Processed: Bonamargy_DSM.tif
+Processed: Slemish_DSM.tif
+Processed: Ardquin_DSM.tif
+Processed: Castlereagh_04_04_2007_DTM.tif
+Processed: Cushendall_15_03_2010_DTM.tif
+Processed: Ardtole_DSM.tif
+Processed: Newtownards_10_06_2008_DSM.tif
+Processed: Newtownstewart_23_05_2004_DTM.tif
+Processed: Clady_10_03_2009_DSM.tif
+Processed: Clandeboye_DSM.tif
+Processed: Ballygalley_15_03_2010_DTM.tif
+Processed: Folk Park Newtownstewart_02_02_2012_DSM.tif
+Processed: Burren_03_03_2012_DSM.tif
+Processed: Armagh-Dungannon-Coalisland_15_03_2010_DTM.tif
+Processed: Dunluce_DSM.tif
+Processed: Glenavy_02_02_2012_DTM.tif
+Processed: Cloghmills_16_06_2014_DTM.tif
+Processed: Donegore_DSM.tif
+Processed: Beragh_02_02_2012_DSM.tif
+Processed: Carrickfergus_04_04_2007_DTM.tif
+Processed: Charlemont_DTM.tif
+Processed: Scrabo_DSM.tif
+Processed: Omagh_Town_11_12_2012_DSM.tif
+Processed: Camowen_16_06_2014_DTM.tif
+Processed: Dunseverick_DSM.tif
+Processed: Castlederg_23_05_2004_DTM.tif
+Processed: Maguiresbridge_05_03_2012_DSM.tif
+Processed: Strabane_23_05_2004_DSM.tif
+Processed: Dunmurry_04_04_2007_DTM.tif
+Processed: Inch_Abbey_DTM.tif
+Processed: Linford_DTM.tif
+Processed: Devenish_DSM.tif
+Processed: Giants_Sconce_DSM.tif
+Processed: Navan_DSM.tif
+Processed: The_Dorsey_DTM.tif
+Processed: Saul_DTM.tif
+Processed: Castlederg_23_05_2004_DSM.tif
+Processed: Camowen_16_06_2014_DSM.tif
+Processed: Dunseverick_DTM.tif
+Processed: Omagh_Town_11_12_2012_DTM.tif
+Processed: Ballynavally_04_04_2007_DTM.tif
+Processed: Scrabo_DTM.tif
+Processed: Charlemont_DSM.tif
+Processed: Donegore_DTM.tif
+Processed: Beragh_02_02_2012_DTM.tif
+Processed: Saul_DSM.tif
+Processed: The_Dorsey_DSM.tif
+Processed: Navan_DTM.tif
+Processed: Giants_Sconce_DTM.tif
+Processed: Devenish_DTM.tif
+Processed: Linford_DSM.tif
+Processed: Inch_Abbey_DSM.tif
+Processed: Strabane_23_05_2004_DTM.tif
+Processed: Maguiresbridge_05_03_2012_DTM.tif
+Processed: Bonamargy_DTM.tif
+Processed: Slemish_DTM.tif
+Processed: Sion Mills_02_02_2012_DSM.tif
+Processed: Cornashee_DTM.tif
+Processed: Omagh_23_05_2004_DTM.tif
+Processed: Dohertys_Tower_DSM.tif
+Processed: Glynn_DSM.tif
+Processed: East Belfast_29_05_2013_DSM.tif
+Processed: Crossmurrin_DSM.tif
+Processed: Raholp_DTM.tif
+Processed: Keady_02_02_2012_DTM.tif
+Processed: Dunmull_DSM.tif
+Processed: Blackwater_16_06_2014_DSM.tif
+Processed: Glenavy_02_02_2012_DSM.tif
+Processed: Cloghmills_16_06_2014_DSM.tif
+Processed: Dunluce_DTM.tif
+Processed: Burren_03_03_2012_DTM.tif
+Processed: Folk Park Newtownstewart_02_02_2012_DTM.tif
+Processed: Clandeboye_DTM.tif
+Processed: Newtownstewart_23_05_2004_DSM.tif
+Processed: Clady_10_03_2009_DTM.tif
+Processed: Ardtole_DTM.tif
+Processed: Newtownards_10_06_2008_DTM.tif
+Processed: Ardquin_DTM.tif
+Processed: Ringreagh_DSM.tif
+Processed: Ardstraw_02_02_2012_DSM.tif
+Processed: PortadownExtension_02_02_2012_DSM.tif
+Processed: Dougary_02_02_2012_DSM.tif
+Processed: Dundrum_DTM.tif
+Processed: Tirgoland_DSM.tif
+Processed: Maghera_20_04_2009_DTM.tif
+Processed: Portadown_27_04_2009_DSM.tif
+Processed: Ballymena_23_04_2009_DTM.tif
+Processed: Downpatrick_05_05_2009_DSM.tif
+Processed: Eglinton_11_12_2012_DSM.tif
+Processed: Cookstown_06_06_2013_DTM.tif
+Processed: Fintona_02_02_2012_DSM.tif
+Processed: Saintfield_02_02_2012_DTM.tif
+Processed: Tandragee_15_03_2010_DTM.tif
+Processed: Belleek_05_03_2012_DTM.tif
+Processed: Greyabbey_Ballywalter_DTM.tif
+Processed: Clogher_DSM.tif
+Processed: Bangor_04_04_2007_DTM.tif
+Processed: Kiltierney_DSM.tif
+Processed: Cahery_DTM.tif
+Processed: Foyle_23_05_2004_DSM.tif
+Processed: Mount_Stewart_DTM.tif
+Processed: LowerBann_16_06_2014_DSM.tif
+Processed: Stonyford_16_06_2014_DSM.tif
+Processed: Black_Pigs_Dyke_DSM.tif
+Processed: Garron_DTM.tif
+Processed: Lisbellaw_05_03_2012_DSM.tif
+Processed: Lurgan_05_03_2012_DSM.tif
+Processed: Larne_15_03_2010_DTM.tif
+Processed: Lisburn_15_03_2010_DTM.tif
+Processed: Limavady_23_05_2004_DSM.tif
+Processed: Randalstown_15_03_2010_DTM.tif
+Processed: Struell_DTM.tif
+Processed: Mossley_05_03_2012_DTM.tif
+Processed: Lyles_Hill_DSM.tif
+Processed: Moneymore_05_03_2012_DTM.tif
+Processed: Magheramore_DTM.tif
+Processed: Enniskillen_05_03_2012_DSM.tif
+Processed: Newcastle_15_03_2010_DTM.tif
+Processed: Cave_Hill_DSM.tif
+Processed: Mobuoy_DSM.tif
+Processed: Newry_15_03_2010_DTM.tif
+Processed: Tullaghoge_DSM.tif
+Processed: Carryduff_15_03_2010_DTM.tif
+Processed: Ballinamallard_05_03_2012_DSM.tif
+Processed: Ballycastle_15_03_2010_DTM.tif
+Processed: Mobuoy_DTM.tif
+Processed: Cave_Hill_DTM.tif
+Processed: Magheramore_DSM.tif
+Processed: Enniskillen_05_03_2012_DTM.tif
+Processed: Moneymore_05_03_2012_DSM.tif
+Processed: Lyles_Hill_DTM.tif
+Processed: Mossley_05_03_2012_DSM.tif
+Processed: Struell_DSM.tif
+Processed: Magherafelt_15_03_2010_DTM.tif
+Processed: Limavady_23_05_2004_DTM.tif
+Processed: Bushmills_15_03_2010_DTM.tif
+Processed: Lurgan_05_03_2012_DTM.tif
+Processed: Lisbellaw_05_03_2012_DTM.tif
+Processed: Garron_DSM.tif
+Processed: Ballinamallard_05_03_2012_DTM.tif
+Processed: Cullybackey_15_03_2010_DTM.tif
+Processed: Tullaghoge_DTM.tif
+Processed: Cookstown_06_06_2013_DSM.tif
+Processed: Eglinton_11_12_2012_DTM.tif
+Processed: Ballyclare_23_04_2009_DTM.tif
+Processed: Downpatrick_05_05_2009_DTM.tif
+Processed: Ballymena_23_04_2009_DSM.tif
+Processed: Portadown_27_04_2009_DTM.tif
+Processed: Tirgoland_DTM.tif
+Processed: Maghera_20_04_2009_DSM.tif
+Processed: Dougary_02_02_2012_DTM.tif
+Processed: Dundrum_DSM.tif
+Processed: Ballynahinch_15_03_2010_DTM.tif
+Processed: Ardstraw_02_02_2012_DTM.tif
+Processed: PortadownExtension_02_02_2012_DTM.tif
+Processed: Ringreagh_DTM.tif
+Processed: Black_Pigs_Dyke_DTM.tif
+Processed: Banbridge_15_03_2010_DTM.tif
+Processed: LowerBann_16_06_2014_DTM.tif
+Processed: Stonyford_16_06_2014_DTM.tif
+Processed: Mount_Stewart_DSM.tif
+Processed: Foyle_23_05_2004_DTM.tif
+Processed: Cahery_DSM.tif
+Processed: Kiltierney_DTM.tif
+Processed: Clogher_DTM.tif
+Processed: Saintfield_02_02_2012_DSM.tif
+Processed: Belleek_05_03_2012_DSM.tif
+Processed: Greyabbey_Ballywalter_DSM.tif
+Processed: Fintona_02_02_2012_DTM.tif
+
+GeoTIFF Analysis Results:
+--------------------------------------------------------------------------------
+Filename                       No Data Value   Min Value       Max Value      
+--------------------------------------------------------------------------------
+Blackwater_16_06_2014_DTM.tif  -9999.0         28.284983       110.806816     
+Londonderry_30_04_2009_DTM.tif -9999.0         -1.104150       155.298706     
+Dunmull_DTM.tif                -9999.0         92.528938       133.208847     
+Keady_02_02_2012_DSM.tif       -9999.0         95.545799       215.914017     
+Raholp_DSM.tif                 -9999.0         25.739594       80.181114      
+Crossmurrin_DTM.tif            -9999.0         63.063789       255.861832     
+Glynn_DTM.tif                  -9999.0         -0.730168       150.217010     
+East Belfast_29_05_2013_DTM.tif -1.9999999867631625e+37 6.000473        199.333557     
+Ballygowan_15_03_2010_DTM.tif  -9999.0         47.273510       103.165588     
+Killyleagh__15_03_2010_DTM.tif -9999.0         -1.575236       56.100460      
+Dohertys_Tower_DTM.tif         -9999.0         3.068110        93.692467      
+Cornashee_DSM.tif              -9999.0         60.199783       126.304298     
+Sion Mills_02_02_2012_DTM.tif  -9999.0         5.070892        118.044998     
+Omagh_23_05_2004_DSM.tif       -9999.0         56.010201       106.029427     
+Bonamargy_DSM.tif              -9999.0         0.383433        35.560432      
+Slemish_DSM.tif                -9999.0         144.662674      437.286957     
+Ardquin_DSM.tif                -9999.0         -0.004611       101.718834     
+Castlereagh_04_04_2007_DTM.tif -999.0          9.972135        77.441391      
+Cushendall_15_03_2010_DTM.tif  -9999.0         -1.799704       181.720718     
+Ardtole_DSM.tif                -9999.0         3.567662        35.941074      
+Newtownards_10_06_2008_DSM.tif -9999.0         -27.459694      163.379807     
+Newtownstewart_23_05_2004_DTM.tif -9999.0         29.015594       78.940514      
+Clady_10_03_2009_DSM.tif       -9999.0         1.085243        47.709145      
+Clandeboye_DSM.tif             -9999.0         41.583385       149.646500     
+Ballygalley_15_03_2010_DTM.tif -9999.0         -1.043859       64.578972      
+Folk Park Newtownstewart_02_02_2012_DSM.tif -9999.0         40.347401       157.482620     
+Burren_03_03_2012_DSM.tif      -9999.0         13.206297       228.315872     
+Armagh-Dungannon-Coalisland_15_03_2010_DTM.tif -9999.0         1.622767        133.757141     
+Dunluce_DSM.tif                -9999.0         -1.525180       72.923592      
+Glenavy_02_02_2012_DTM.tif     -9999.0         26.684374       112.453545     
+Cloghmills_16_06_2014_DTM.tif  -9999.0         80.152161       126.840378     
+Donegore_DSM.tif               -9999.0         77.235802       262.036438     
+Beragh_02_02_2012_DSM.tif      -9999.0         89.703110       158.705551     
+Carrickfergus_04_04_2007_DTM.tif -999.0          -3.012512       105.469437     
+Charlemont_DTM.tif             -9999.0         13.047444       32.320248      
+Scrabo_DSM.tif                 -9999.0         18.143196       187.407166     
+Omagh_Town_11_12_2012_DSM.tif  -9999.0         58.859879       135.029999     
+Camowen_16_06_2014_DTM.tif     -9999.0         72.664169       118.709473     
+Dunseverick_DSM.tif            -9999.0         -1.534009       63.153629      
+Castlederg_23_05_2004_DTM.tif  -9999.0         31.947132       63.192066      
+Maguiresbridge_05_03_2012_DSM.tif -9999.0         43.303375       79.715286      
+Strabane_23_05_2004_DSM.tif    -9999.0         -0.481515       52.345921      
+Dunmurry_04_04_2007_DTM.tif    -999.0          9.147788        75.181076      
+Inch_Abbey_DTM.tif             -9999.0         -0.950463       50.918739      
+Linford_DTM.tif                -9999.0         36.204285       383.635498     
+Devenish_DSM.tif               -9999.0         42.988087       68.175591      
+Giants_Sconce_DSM.tif          -9999.0         104.240120      247.148987     
+Navan_DSM.tif                  -9999.0         26.787424       107.435226     
+The_Dorsey_DTM.tif             -9999.0         93.761391       147.625931     
+Saul_DTM.tif                   -9999.0         0.635007        75.361099      
+Castlederg_23_05_2004_DSM.tif  -9999.0         31.505644       74.334274      
+Camowen_16_06_2014_DSM.tif     -9999.0         72.537933       123.733971     
+Dunseverick_DTM.tif            -9999.0         -2.141231       63.144005      
+Omagh_Town_11_12_2012_DTM.tif  -9999.0         59.036270       135.041580     
+Ballynavally_04_04_2007_DTM.tif -999.0          9.267568        52.412022      
+Scrabo_DTM.tif                 -9999.0         16.568386       161.318436     
+Charlemont_DSM.tif             -9999.0         12.796889       41.009735      
+Donegore_DTM.tif               -9999.0         77.234436       261.732391     
+Beragh_02_02_2012_DTM.tif      -9999.0         89.651611       158.702194     
+Saul_DSM.tif                   -9999.0         0.712117        77.854126      
+The_Dorsey_DSM.tif             -9999.0         94.115112       153.563461     
+Navan_DTM.tif                  -9999.0         26.393559       103.028938     
+Giants_Sconce_DTM.tif          -9999.0         104.206543      244.205154     
+Devenish_DTM.tif               -9999.0         43.068737       67.057106      
+Linford_DSM.tif                -9999.0         36.165306       383.642700     
+Inch_Abbey_DSM.tif             -9999.0         -0.977335       55.781666      
+Strabane_23_05_2004_DTM.tif    -9999.0         -0.019503       44.461781      
+Maguiresbridge_05_03_2012_DTM.tif -9999.0         43.251083       79.528603      
+Bonamargy_DTM.tif              -9999.0         0.331963        20.669586      
+Slemish_DTM.tif                -9999.0         144.306824      437.280579     
+Sion Mills_02_02_2012_DSM.tif  -9999.0         4.834533        118.121712     
+Cornashee_DTM.tif              -9999.0         60.097797       113.021469     
+Omagh_23_05_2004_DTM.tif       -9999.0         56.341568       94.843254      
+Dohertys_Tower_DSM.tif         -9999.0         3.242648        106.238853     
+Glynn_DSM.tif                  -9999.0         -0.718093       150.351181     
+East Belfast_29_05_2013_DSM.tif -1.9999999867631625e+37 5.863404        199.456635     
+Crossmurrin_DSM.tif            -9999.0         63.007397       255.874710     
+Raholp_DTM.tif                 -9999.0         25.762735       79.266479      
+Keady_02_02_2012_DTM.tif       -9999.0         95.497971       215.111374     
+Dunmull_DSM.tif                -9999.0         92.572624       133.721069     
+Blackwater_16_06_2014_DSM.tif  -9999.0         28.934120       119.457565     
+Glenavy_02_02_2012_DSM.tif     -9999.0         26.945656       116.150154     
+Cloghmills_16_06_2014_DSM.tif  -9999.0         80.337219       132.610413     
+Dunluce_DTM.tif                -9999.0         -1.103995       72.226189      
+Burren_03_03_2012_DTM.tif      -9999.0         13.096286       228.268173     
+Folk Park Newtownstewart_02_02_2012_DTM.tif -9999.0         40.231148       151.017029     
+Clandeboye_DTM.tif             -9999.0         41.684349       140.297256     
+Newtownstewart_23_05_2004_DSM.tif -9999.0         28.897186       83.626694      
+Clady_10_03_2009_DTM.tif       -9999.0         1.541848        33.908276      
+Ardtole_DTM.tif                -9999.0         3.538797        34.185879      
+Newtownards_10_06_2008_DTM.tif -9999.0         -27.678562      159.954254     
+Ardquin_DTM.tif                -9999.0         -0.020218       101.360542     
+Ringreagh_DSM.tif              -9999.0         -0.384651       30.733658      
+Ardstraw_02_02_2012_DSM.tif    -99.0           20.104763       105.033676     
+PortadownExtension_02_02_2012_DSM.tif -9999.0         12.367079       47.423931      
+Dougary_02_02_2012_DSM.tif     -9999.0         64.717888       117.618225     
+Dundrum_DTM.tif                -9999.0         1.135140        86.805748      
+Tirgoland_DSM.tif              -9999.0         126.351479      428.256348     
+Maghera_20_04_2009_DTM.tif     -9999.0         -5.429739       115.241081     
+Portadown_27_04_2009_DSM.tif   -9999.0         12.140067       64.469856      
+Ballymena_23_04_2009_DTM.tif   -9999.0         30.098564       120.107300     
+Downpatrick_05_05_2009_DSM.tif -9999.0         -1.819899       89.991768      
+Eglinton_11_12_2012_DSM.tif    -9999.0         -0.149142       164.732178     
+Cookstown_06_06_2013_DTM.tif   -1.9999999867631625e+37 12.308623       90.698868      
+Fintona_02_02_2012_DSM.tif     -9999.0         71.198914       146.662994     
+Saintfield_02_02_2012_DTM.tif  -9999.0         42.204433       131.711090     
+Tandragee_15_03_2010_DTM.tif   -9999.0         14.896500       72.344719      
+Belleek_05_03_2012_DTM.tif     -9999.0         29.505085       81.484123      
+Greyabbey_Ballywalter_DTM.tif  -9999.0         -0.395703       55.821148      
+Clogher_DSM.tif                -9999.0         65.018723       137.546936     
+Bangor_04_04_2007_DTM.tif      -999.0          -2.620357       75.352486      
+Kiltierney_DSM.tif             -9999.0         74.777084       160.182663     
+Cahery_DTM.tif                 -9999.0         31.328505       70.953865      
+Foyle_23_05_2004_DSM.tif       -9999.0         -1.730826       77.947227      
+Mount_Stewart_DTM.tif          -9999.0         54.656284       95.230949      
+LowerBann_16_06_2014_DSM.tif   -9999.0         1.446127        70.088066      
+Stonyford_16_06_2014_DSM.tif   -9999.0         120.977409      188.428009     
+Black_Pigs_Dyke_DSM.tif        -9999.0         48.451267       91.035088      
+Garron_DTM.tif                 -9999.0         -0.749022       296.196411     
+Lisbellaw_05_03_2012_DSM.tif   -9999.0         42.942741       138.118423     
+Lurgan_05_03_2012_DSM.tif      -9999.0         12.251413       79.198372      
+Larne_15_03_2010_DTM.tif       -9999.0         -2.545717       83.883011      
+Lisburn_15_03_2010_DTM.tif     -9999.0         -1083.805176    166.789215     
+Limavady_23_05_2004_DSM.tif    -9999.0         0.357776        93.287033      
+Randalstown_15_03_2010_DTM.tif -9999.0         12.391820       68.064079      
+Struell_DTM.tif                -9999.0         29.740147       79.936188      
+Mossley_05_03_2012_DTM.tif     -9999.0         -1.046761       281.897888     
+Lyles_Hill_DSM.tif             -9999.0         118.830467      227.036316     
+Moneymore_05_03_2012_DTM.tif   -9999.0         26.742966       138.505737     
+Magheramore_DTM.tif            -9999.0         197.661926      225.229492     
+Enniskillen_05_03_2012_DSM.tif -9999.0         42.026817       174.466171     
+Newcastle_15_03_2010_DTM.tif   -9999.0         -2.135185       192.157028     
+Cave_Hill_DSM.tif              -9999.0         66.887131       366.386749     
+Mobuoy_DSM.tif                 -9999.0         2.103626        162.202805     
+Newry_15_03_2010_DTM.tif       -9999.0         -4.482948       149.165283     
+Tullaghoge_DSM.tif             -9999.0         45.805500       115.741547     
+Carryduff_15_03_2010_DTM.tif   -9999.0         71.527786       154.261627     
+Ballinamallard_05_03_2012_DSM.tif -9999.0         42.314571       109.606438     
+Ballycastle_15_03_2010_DTM.tif -9999.0         -4.268881       98.523193      
+Mobuoy_DTM.tif                 -9999.0         2.256496        160.995285     
+Cave_Hill_DTM.tif              -9999.0         68.410576       366.359711     
+Magheramore_DSM.tif            -9999.0         197.679001      227.748856     
+Enniskillen_05_03_2012_DTM.tif -9999.0         42.131653       174.448639     
+Moneymore_05_03_2012_DSM.tif   -9999.0         26.812761       138.576202     
+Lyles_Hill_DTM.tif             -9999.0         118.863396      227.034500     
+Mossley_05_03_2012_DSM.tif     -9999.0         -1.008383       284.673431     
+Struell_DSM.tif                -9999.0         29.697369       81.149544      
+Magherafelt_15_03_2010_DTM.tif -9999.0         19.724697       128.522156     
+Limavady_23_05_2004_DTM.tif    -9999.0         0.355281        83.778923      
+Bushmills_15_03_2010_DTM.tif   -9999.0         -0.881839       62.375813      
+Lurgan_05_03_2012_DTM.tif      -9999.0         12.414708       13.125607      
+Lisbellaw_05_03_2012_DTM.tif   -9999.0         42.609779       138.082947     
+Garron_DSM.tif                 -9999.0         -0.738427       296.222931     
+Ballinamallard_05_03_2012_DTM.tif -9999.0         42.074333       109.586670     
+Cullybackey_15_03_2010_DTM.tif -9999.0         39.919811       114.740807     
+Tullaghoge_DTM.tif             -9999.0         44.431320       106.123444     
+Cookstown_06_06_2013_DSM.tif   -1.9999999867631625e+37 10.722183       98.086647      
+Eglinton_11_12_2012_DTM.tif    -9999.0         -0.586254       164.008865     
+Ballyclare_23_04_2009_DTM.tif  -9999.0         12.429083       158.825806     
+Downpatrick_05_05_2009_DTM.tif -9999.0         -2.006024       89.733551      
+Ballymena_23_04_2009_DSM.tif   -9999.0         30.175554       121.941429     
+Portadown_27_04_2009_DTM.tif   -9999.0         12.296706       54.610447      
+Tirgoland_DTM.tif              -9999.0         126.060555      428.231934     
+Maghera_20_04_2009_DSM.tif     -9999.0         -5.443770       119.411583     
+Dougary_02_02_2012_DTM.tif     -9999.0         64.636139       105.112663     
+Dundrum_DSM.tif                -9999.0         1.133744        86.980392      
+Ballynahinch_15_03_2010_DTM.tif -9999.0         13.275497       147.953964     
+Ardstraw_02_02_2012_DTM.tif    -99.0           18.991199       105.022385     
+PortadownExtension_02_02_2012_DTM.tif -9999.0         12.655343       46.262272      
+Ringreagh_DTM.tif              -9999.0         -0.305859       22.426292      
+Black_Pigs_Dyke_DTM.tif        -9999.0         48.335377       87.295067      
+Banbridge_15_03_2010_DTM.tif   -9999.0         20.144611       141.277725     
+LowerBann_16_06_2014_DTM.tif   -9999.0         1.423877        52.783390      
+Stonyford_16_06_2014_DTM.tif   -9999.0         122.003479      184.304504     
+Mount_Stewart_DSM.tif          -9999.0         54.656284       95.230949      
+Foyle_23_05_2004_DTM.tif       -9999.0         -1.753866       74.559570      
+Cahery_DSM.tif                 -9999.0         31.314007       71.257393      
+Kiltierney_DTM.tif             -9999.0         74.251015       152.907013     
+Clogher_DTM.tif                -9999.0         64.982605       116.768486     
+Saintfield_02_02_2012_DSM.tif  -9999.0         42.350060       131.845581     
+Belleek_05_03_2012_DSM.tif     -9999.0         29.166107       85.760193      
+Greyabbey_Ballywalter_DSM.tif  -9999.0         -0.388346       56.177681      
+Fintona_02_02_2012_DTM.tif     -9999.0         70.509697       146.274384  
