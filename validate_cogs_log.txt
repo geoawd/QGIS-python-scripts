@@ -1,0 +1,915 @@
+Validation Log - 2025-03-11 20:41:45
+Directory: /var/www/html2/lidar
+============================================================
+
+Validating: Tandragee_15_03_2010_DTM.tif
+./Tandragee_15_03_2010_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1672 bytes
+
+
+Validating: Ballynahinch_15_03_2010_DTM.tif
+./Ballynahinch_15_03_2010_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 5640 bytes
+
+
+Validating: Devenish_DTM.tif
+./Devenish_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 7696 bytes
+
+
+Validating: Dunluce_DTM.tif
+./Dunluce_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 4504 bytes
+
+
+Validating: Giants_Sconce_DTM.tif
+./Giants_Sconce_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3624 bytes
+
+
+Validating: Ardquin_DTM.tif
+./Ardquin_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 16648 bytes
+
+
+Validating: Ardstraw_02_02_2012_DSM.tif
+./Ardstraw_02_02_2012_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2376 bytes
+
+
+Validating: Tirgoland_DTM.tif
+./Tirgoland_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 4808 bytes
+
+
+Validating: Mobuoy_DTM.tif
+./Mobuoy_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 13032 bytes
+
+
+Validating: Clandeboye_DTM.tif
+./Clandeboye_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 5656 bytes
+
+
+Validating: Castlederg_23_05_2004_DSM.tif
+./Castlederg_23_05_2004_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2712 bytes
+
+
+Validating: Beragh_02_02_2012_DTM.tif
+./Beragh_02_02_2012_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2376 bytes
+
+
+Validating: Glenavy_02_02_2012_DSM.tif
+./Glenavy_02_02_2012_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2376 bytes
+
+
+Validating: Dunluce_DSM.tif
+./Dunluce_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3304 bytes
+
+
+Validating: Ballyclare_23_04_2009_DTM.tif
+./Ballyclare_23_04_2009_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 12840 bytes
+
+
+Validating: Ringreagh_DTM.tif
+./Ringreagh_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2304 bytes
+
+
+Validating: Moneymore_05_03_2012_DSM.tif
+./Moneymore_05_03_2012_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 5152 bytes
+
+
+Validating: Downpatrick_05_05_2009_DTM.tif
+./Downpatrick_05_05_2009_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 8168 bytes
+
+
+Validating: Cave_Hill_DSM.tif
+./Cave_Hill_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 12896 bytes
+
+
+Validating: Lyles_Hill_DSM.tif
+./Lyles_Hill_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 5848 bytes
+
+
+Validating: Magheramore_DSM.tif
+./Magheramore_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1464 bytes
+
+
+Validating: Dundrum_DSM.tif
+./Dundrum_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3520 bytes
+
+
+Validating: Clady_10_03_2009_DTM.tif
+./Clady_10_03_2009_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2656 bytes
+
+
+Validating: Ballinamallard_05_03_2012_DTM.tif
+./Ballinamallard_05_03_2012_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3400 bytes
+
+
+Validating: Enniskillen_05_03_2012_DSM.tif
+./Enniskillen_05_03_2012_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 4072 bytes
+
+
+Validating: Enniskillen_05_03_2012_DTM.tif
+./Enniskillen_05_03_2012_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 4072 bytes
+
+
+Validating: Magherafelt_15_03_2010_DTM.tif
+./Magherafelt_15_03_2010_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3160 bytes
+
+
+Validating: Scrabo_DTM.tif
+./Scrabo_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 4968 bytes
+
+
+Validating: Ballycastle_15_03_2010_DTM.tif
+./Ballycastle_15_03_2010_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2216 bytes
+
+
+Validating: Clogher_DSM.tif
+./Clogher_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 12000 bytes
+
+
+Validating: Mossley_05_03_2012_DSM.tif
+./Mossley_05_03_2012_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 4128 bytes
+
+
+Validating: Limavady_23_05_2004_DTM.tif
+./Limavady_23_05_2004_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 7000 bytes
+
+
+Validating: Omagh_Town_11_12_2012_DTM.tif
+./Omagh_Town_11_12_2012_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2136 bytes
+
+
+Validating: Cahery_DSM.tif
+./Cahery_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3080 bytes
+
+
+Validating: Randalstown_15_03_2010_DTM.tif
+./Randalstown_15_03_2010_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 4632 bytes
+
+
+Validating: Tirgoland_DSM.tif
+./Tirgoland_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 4808 bytes
+
+
+Validating: Stonyford_16_06_2014_DSM.tif
+./Stonyford_16_06_2014_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1672 bytes
+
+
+Validating: Ballygowan_15_03_2010_DTM.tif
+./Ballygowan_15_03_2010_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2136 bytes
+
+
+Validating: Limavady_23_05_2004_DSM.tif
+./Limavady_23_05_2004_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 7000 bytes
+
+
+Validating: Crossmurrin_DSM.tif
+./Crossmurrin_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 9080 bytes
+
+
+Validating: The_Dorsey_DSM.tif
+./The_Dorsey_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 12000 bytes
+
+
+Validating: Folk Park Newtownstewart_02_02_2012_DSM.tif
+./Folk Park Newtownstewart_02_02_2012_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 4128 bytes
+
+
+Validating: Black_Pigs_Dyke_DTM.tif
+./Black_Pigs_Dyke_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3880 bytes
+
+
+Validating: Greyabbey_Ballywalter_DSM.tif
+./Greyabbey_Ballywalter_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 23984 bytes
+
+
+Validating: Ringreagh_DSM.tif
+./Ringreagh_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2304 bytes
+
+
+Validating: Castlederg_23_05_2004_DTM.tif
+./Castlederg_23_05_2004_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2712 bytes
+
+
+Validating: Lurgan_05_03_2012_DSM.tif
+./Lurgan_05_03_2012_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 12840 bytes
+
+
+Validating: Mobuoy_DSM.tif
+./Mobuoy_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 13032 bytes
+
+
+Validating: Lisbellaw_05_03_2012_DTM.tif
+./Lisbellaw_05_03_2012_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1832 bytes
+
+
+Validating: Saul_DTM.tif
+./Saul_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 5144 bytes
+
+
+Validating: Ballinamallard_05_03_2012_DSM.tif
+./Ballinamallard_05_03_2012_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3400 bytes
+
+
+Validating: Dougary_02_02_2012_DSM.tif
+./Dougary_02_02_2012_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1832 bytes
+
+
+Validating: Blackwater_16_06_2014_DSM.tif
+./Blackwater_16_06_2014_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 29600 bytes
+
+
+Validating: Lurgan_05_03_2012_DTM.tif
+./Lurgan_05_03_2012_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1832 bytes
+
+
+Validating: LowerBann_16_06_2014_DTM.tif
+./LowerBann_16_06_2014_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 17464 bytes
+
+
+Validating: Saintfield_02_02_2012_DSM.tif
+./Saintfield_02_02_2012_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2712 bytes
+
+
+Validating: Linford_DTM.tif
+./Linford_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 26120 bytes
+
+
+Validating: Killyleagh__15_03_2010_DTM.tif
+./Killyleagh__15_03_2010_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1672 bytes
+
+
+Validating: Bangor_04_04_2007_DTM.tif
+./Bangor_04_04_2007_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 26272 bytes
+
+
+Validating: East Belfast_29_05_2013_DSM.tif
+./East Belfast_29_05_2013_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 7600 bytes
+
+
+Validating: Keady_02_02_2012_DSM.tif
+./Keady_02_02_2012_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2376 bytes
+
+
+Validating: Ballymena_23_04_2009_DSM.tif
+./Ballymena_23_04_2009_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 8248 bytes
+
+
+Validating: Dougary_02_02_2012_DTM.tif
+./Dougary_02_02_2012_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1832 bytes
+
+
+Validating: Lisbellaw_05_03_2012_DSM.tif
+./Lisbellaw_05_03_2012_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1832 bytes
+
+
+Validating: Tullaghoge_DSM.tif
+./Tullaghoge_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 5848 bytes
+
+
+Validating: East Belfast_29_05_2013_DTM.tif
+./East Belfast_29_05_2013_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 7600 bytes
+
+
+Validating: Black_Pigs_Dyke_DSM.tif
+./Black_Pigs_Dyke_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3776 bytes
+
+
+Validating: Stonyford_16_06_2014_DTM.tif
+./Stonyford_16_06_2014_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1672 bytes
+
+
+Validating: Keady_02_02_2012_DTM.tif
+./Keady_02_02_2012_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2376 bytes
+
+
+Validating: Blackwater_16_06_2014_DTM.tif
+./Blackwater_16_06_2014_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 29600 bytes
+
+
+Validating: Larne_15_03_2010_DTM.tif
+./Larne_15_03_2010_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1624 bytes
+
+
+Validating: Slemish_DTM.tif
+./Slemish_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 205401317 bytes
+
+
+Validating: Clady_10_03_2009_DSM.tif
+./Clady_10_03_2009_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2656 bytes
+
+
+Validating: Garron_DSM.tif
+./Garron_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 9712 bytes
+
+
+Validating: Foyle_23_05_2004_DSM.tif
+./Foyle_23_05_2004_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 10760 bytes
+
+
+Validating: Strabane_23_05_2004_DSM.tif
+./Strabane_23_05_2004_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3160 bytes
+
+
+Validating: Glynn_DSM.tif
+./Glynn_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 9712 bytes
+
+
+Validating: Lyles_Hill_DTM.tif
+./Lyles_Hill_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 5848 bytes
+
+
+Validating: Armagh-Dungannon-Coalisland_15_03_2010_DTM.tif
+./Armagh-Dungannon-Coalisland_15_03_2010_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 18848 bytes
+
+
+Validating: Saul_DSM.tif
+./Saul_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 4032 bytes
+
+
+Validating: Dunseverick_DTM.tif
+./Dunseverick_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 4816 bytes
+
+
+Validating: Maghera_20_04_2009_DSM.tif
+./Maghera_20_04_2009_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 12920 bytes
+
+
+Validating: Newtownards_10_06_2008_DSM.tif
+./Newtownards_10_06_2008_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 7216 bytes
+
+
+Validating: Cave_Hill_DTM.tif
+./Cave_Hill_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 12896 bytes
+
+
+Validating: Newtownards_10_06_2008_DTM.tif
+./Newtownards_10_06_2008_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 7216 bytes
+
+
+Validating: Ballynavally_04_04_2007_DTM.tif
+./Ballynavally_04_04_2007_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1496 bytes
+
+
+Validating: Portadown_27_04_2009_DTM.tif
+./Portadown_27_04_2009_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 6992 bytes
+
+
+Validating: Omagh_Town_11_12_2012_DSM.tif
+./Omagh_Town_11_12_2012_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2136 bytes
+
+
+Validating: Eglinton_11_12_2012_DSM.tif
+./Eglinton_11_12_2012_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2000 bytes
+
+
+Validating: Kiltierney_DTM.tif
+./Kiltierney_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 12456 bytes
+
+
+Validating: Scrabo_DSM.tif
+./Scrabo_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 4968 bytes
+
+
+Validating: Struell_DSM.tif
+./Struell_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3792 bytes
+
+
+Validating: Mossley_05_03_2012_DTM.tif
+./Mossley_05_03_2012_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 4128 bytes
+
+
+Validating: Fintona_02_02_2012_DTM.tif
+./Fintona_02_02_2012_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3264 bytes
+
+
+Validating: Dohertys_Tower_DTM.tif
+./Dohertys_Tower_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3160 bytes
+
+
+Validating: Maguiresbridge_05_03_2012_DTM.tif
+./Maguiresbridge_05_03_2012_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2376 bytes
+
+
+Validating: Burren_03_03_2012_DTM.tif
+./Burren_03_03_2012_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1832 bytes
+
+
+Validating: Sion Mills_02_02_2012_DTM.tif
+./Sion Mills_02_02_2012_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3400 bytes
+
+
+Validating: Portadown_27_04_2009_DSM.tif
+./Portadown_27_04_2009_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 6992 bytes
+
+
+Validating: Fintona_02_02_2012_DSM.tif
+./Fintona_02_02_2012_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3264 bytes
+
+
+Validating: Inch_Abbey_DTM.tif
+./Inch_Abbey_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 5848 bytes
+
+
+Validating: Giants_Sconce_DSM.tif
+./Giants_Sconce_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3624 bytes
+
+
+Validating: Dunseverick_DSM.tif
+./Dunseverick_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 4816 bytes
+
+
+Validating: Cloghmills_16_06_2014_DTM.tif
+./Cloghmills_16_06_2014_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2896 bytes
+
+
+Validating: Belleek_05_03_2012_DSM.tif
+./Belleek_05_03_2012_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2040 bytes
+
+
+Validating: Slemish_DSM.tif
+./Slemish_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 13768 bytes
+
+
+Validating: Cookstown_06_06_2013_DTM.tif
+./Cookstown_06_06_2013_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 6056 bytes
+
+
+Validating: Glynn_DTM.tif
+./Glynn_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 9712 bytes
+
+
+Validating: Clogher_DTM.tif
+./Clogher_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 12000 bytes
+
+
+Validating: Newtownstewart_23_05_2004_DTM.tif
+./Newtownstewart_23_05_2004_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1832 bytes
+
+
+Validating: Kiltierney_DSM.tif
+./Kiltierney_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 8648 bytes
+
+
+Validating: Strabane_23_05_2004_DTM.tif
+./Strabane_23_05_2004_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3160 bytes
+
+
+Validating: Mount_Stewart_DTM.tif
+./Mount_Stewart_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1552 bytes
+
+
+Validating: Ardquin_DSM.tif
+./Ardquin_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 16544 bytes
+
+
+Validating: Bushmills_15_03_2010_DTM.tif
+./Bushmills_15_03_2010_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1712 bytes
+
+
+Validating: Cornashee_DTM.tif
+./Cornashee_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 4768 bytes
+
+
+Validating: Devenish_DSM.tif
+./Devenish_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 7696 bytes
+
+
+Validating: Ballygalley_15_03_2010_DTM.tif
+./Ballygalley_15_03_2010_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1552 bytes
+
+
+Validating: Clandeboye_DSM.tif
+./Clandeboye_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 5656 bytes
+
+
+Validating: Omagh_23_05_2004_DTM.tif
+./Omagh_23_05_2004_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3752 bytes
+
+
+Validating: Cookstown_06_06_2013_DSM.tif
+./Cookstown_06_06_2013_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 6056 bytes
+
+
+Validating: Burren_03_03_2012_DSM.tif
+./Burren_03_03_2012_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1832 bytes
+
+
+Validating: Linford_DSM.tif
+./Linford_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 26224 bytes
+
+
+Validating: Dunmull_DSM.tif
+./Dunmull_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2456 bytes
+
+
+Validating: Newcastle_15_03_2010_DTM.tif
+./Newcastle_15_03_2010_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 4296 bytes
+
+
+Validating: Navan_DSM.tif
+./Navan_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 19136 bytes
+
+
+Validating: Charlemont_DSM.tif
+./Charlemont_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3264 bytes
+
+
+Validating: Foyle_23_05_2004_DTM.tif
+./Foyle_23_05_2004_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 10760 bytes
+
+
+Validating: Camowen_16_06_2014_DTM.tif
+./Camowen_16_06_2014_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2712 bytes
+
+
+Validating: Raholp_DSM.tif
+./Raholp_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3160 bytes
+
+
+Validating: Greyabbey_Ballywalter_DTM.tif
+./Greyabbey_Ballywalter_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 23984 bytes
+
+
+Validating: Dunmurry_04_04_2007_DTM.tif
+./Dunmurry_04_04_2007_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 4128 bytes
+
+
+Validating: Inch_Abbey_DSM.tif
+./Inch_Abbey_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 5848 bytes
+
+
+Validating: Maghera_20_04_2009_DTM.tif
+./Maghera_20_04_2009_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 12920 bytes
+
+
+Validating: Folk Park Newtownstewart_02_02_2012_DTM.tif
+./Folk Park Newtownstewart_02_02_2012_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 4128 bytes
+
+
+Validating: Lisburn_15_03_2010_DTM.tif
+./Lisburn_15_03_2010_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 22168 bytes
+
+
+Validating: Tullaghoge_DTM.tif
+./Tullaghoge_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 5848 bytes
+
+
+Validating: Londonderry_30_04_2009_DTM.tif
+./Londonderry_30_04_2009_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 17864 bytes
+
+
+Validating: Beragh_02_02_2012_DSM.tif
+./Beragh_02_02_2012_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2376 bytes
+
+
+Validating: Crossmurrin_DTM.tif
+./Crossmurrin_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 9080 bytes
+
+
+Validating: Dundrum_DTM.tif
+./Dundrum_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3520 bytes
+
+
+Validating: Struell_DTM.tif
+./Struell_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3792 bytes
+
+
+Validating: Ballymena_23_04_2009_DTM.tif
+./Ballymena_23_04_2009_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 8248 bytes
+
+
+Validating: Magheramore_DTM.tif
+./Magheramore_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1464 bytes
+
+
+Validating: Sion Mills_02_02_2012_DSM.tif
+./Sion Mills_02_02_2012_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3400 bytes
+
+
+Validating: Ardstraw_02_02_2012_DTM.tif
+./Ardstraw_02_02_2012_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2376 bytes
+
+
+Validating: Saintfield_02_02_2012_DTM.tif
+./Saintfield_02_02_2012_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2712 bytes
+
+
+Validating: Downpatrick_05_05_2009_DSM.tif
+./Downpatrick_05_05_2009_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 8168 bytes
+
+
+Validating: Dohertys_Tower_DSM.tif
+./Dohertys_Tower_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3160 bytes
+
+
+Validating: Newry_15_03_2010_DTM.tif
+./Newry_15_03_2010_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 11600 bytes
+
+
+Validating: Cahery_DTM.tif
+./Cahery_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3080 bytes
+
+
+Validating: Moneymore_05_03_2012_DTM.tif
+./Moneymore_05_03_2012_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3944 bytes
+
+
+Validating: Donegore_DSM.tif
+./Donegore_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 16936 bytes
+
+
+Validating: Cullybackey_15_03_2010_DTM.tif
+./Cullybackey_15_03_2010_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3784 bytes
+
+
+Validating: Banbridge_15_03_2010_DTM.tif
+./Banbridge_15_03_2010_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 5160 bytes
+
+
+Validating: Cornashee_DSM.tif
+./Cornashee_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 9736 bytes
+
+
+Validating: Garron_DTM.tif
+./Garron_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 9712 bytes
+
+
+Validating: LowerBann_16_06_2014_DSM.tif
+./LowerBann_16_06_2014_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 17464 bytes
+
+
+Validating: Charlemont_DTM.tif
+./Charlemont_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3264 bytes
+
+
+Validating: Dunmull_DTM.tif
+./Dunmull_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2456 bytes
+
+
+Validating: Castlereagh_04_04_2007_DTM.tif
+./Castlereagh_04_04_2007_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1832 bytes
+
+
+Validating: Newtownstewart_23_05_2004_DSM.tif
+./Newtownstewart_23_05_2004_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1832 bytes
+
+
+Validating: Cloghmills_16_06_2014_DSM.tif
+./Cloghmills_16_06_2014_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2896 bytes
+
+
+Validating: Donegore_DTM.tif
+./Donegore_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 16936 bytes
+
+
+Validating: Belleek_05_03_2012_DTM.tif
+./Belleek_05_03_2012_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2040 bytes
+
+
+Validating: PortadownExtension_02_02_2012_DTM.tif
+./PortadownExtension_02_02_2012_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2376 bytes
+
+
+Validating: Glenavy_02_02_2012_DTM.tif
+./Glenavy_02_02_2012_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2376 bytes
+
+
+Validating: Carryduff_15_03_2010_DTM.tif
+./Carryduff_15_03_2010_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1832 bytes
+
+
+Validating: Cushendall_15_03_2010_DTM.tif
+./Cushendall_15_03_2010_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2080 bytes
+
+
+Validating: Ardtole_DSM.tif
+./Ardtole_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1832 bytes
+
+
+Validating: Maguiresbridge_05_03_2012_DSM.tif
+./Maguiresbridge_05_03_2012_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2376 bytes
+
+
+Validating: Ardtole_DTM.tif
+./Ardtole_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1832 bytes
+
+
+Validating: Carrickfergus_04_04_2007_DTM.tif
+./Carrickfergus_04_04_2007_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 36704 bytes
+
+
+Validating: Bonamargy_DTM.tif
+./Bonamargy_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1896 bytes
+
+
+Validating: Eglinton_11_12_2012_DTM.tif
+./Eglinton_11_12_2012_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2000 bytes
+
+
+Validating: PortadownExtension_02_02_2012_DSM.tif
+./PortadownExtension_02_02_2012_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2376 bytes
+
+
+Validating: Mount_Stewart_DSM.tif
+./Mount_Stewart_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 1552 bytes
+
+
+Validating: The_Dorsey_DTM.tif
+./The_Dorsey_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 12000 bytes
+
+
+Validating: Omagh_23_05_2004_DSM.tif
+./Omagh_23_05_2004_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3752 bytes
+
+
+Validating: Raholp_DTM.tif
+./Raholp_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 3160 bytes
+
+
+Validating: Camowen_16_06_2014_DSM.tif
+./Camowen_16_06_2014_DSM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 2712 bytes
+
+
+Validating: Navan_DTM.tif
+./Navan_DTM.tif is a valid cloud optimized GeoTIFF
+The size of all IFD headers is 19136 bytes
+
+
+Validation completed.
