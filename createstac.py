@@ -73,8 +73,9 @@ def create_stac_catalog(geotiff_dir, base_url, catalog_title="better-open-data.c
         catalog_type=pystac.CatalogType.ABSOLUTE_PUBLISHED
     )
 
-    original_path = "/Users/alexdonald/Downloads/stac"
-    replacement_url = "https://better-open-data.com/lidar"
+    
+    original_path = "/Users/alexdonald/Downloads/"
+    replacement_url = "https://better-open-data.com/"
     for json_file in output_dir.rglob("*.json"):
         try:
             print(f"Processing: {json_file}")
@@ -101,7 +102,7 @@ def create_stac_catalog(geotiff_dir, base_url, catalog_title="better-open-data.c
     
     print("Path replacement completed!")
 
-
+    
     print(f"STAC catalog created at {output_dir.resolve()}")
     print(f"🔗 All local hrefs updated to use base URL: {base_url.rstrip('/')}")
 
