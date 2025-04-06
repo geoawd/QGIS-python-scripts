@@ -201,6 +201,10 @@ url_list = [
 'https://opendatani.blob.core.windows.net/archaeologylidar/The%20Dorsey.zip',
 'https://opendatani.blob.core.windows.net/archaeologylidar/Tirgoland.zip',
 'https://opendatani.blob.core.windows.net/archaeologylidar/Tullaghoge.zip',
+'https://opendatani.blob.core.windows.net/lpslidar/BangorExtension_05_03_2012.zip',
+'https://opendatani.blob.core.windows.net/lpslidar/Coleraine-Portstewart_15_03_2010.zip',
+'https://opendatani.blob.core.windows.net/lpslidar/Newtownabbey_15_03_2010.zip',
+
 ]
 
 
