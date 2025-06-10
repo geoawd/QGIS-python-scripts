@@ -71,7 +71,7 @@ class ZipRasterProcessor:
     def convert_to_cog(self, vrt_path, folder_name, zip_path):
         cog_path = os.path.join(self.output_dir, f"{os.path.basename(zip_path).replace('.zip', '')}_{folder_name}.tif")
         
-        translate_options = gdal.TranslateOptions(format='COG', creationOptions=["COMPRESS=LZW", "NUM_THREADS=ALL_CPUS"],
+        translate_options = gdal.TranslateOptions(format='COG', creationOptions=["COMPRESS=DEFLATE", "BIGTIFF=YES", "NUM_THREADS=ALL_CPUS"],
                                                   outputSRS=self.projection)
         
         gdal.Translate(cog_path, vrt_path, options=translate_options)
